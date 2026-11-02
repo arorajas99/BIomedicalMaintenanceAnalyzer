@@ -1,0 +1,7 @@
+Device_Type,Device_Count,Average_Failure_Events,Average_Downtime,Average_Valid_Maintenance_Cost
+CT Scanner,662,1.91,10.34,9011.82
+Defibrillator,701,2.03,10.66,9005.71
+Infusion Pump,705,2.0,10.62,8721.93
+MRI Scanner,673,1.93,10.46,8837.82
+PET Scanner,679,1.93,11.04,9062.52
+X-Ray Machine,729,1.94,10.6,8791.34
